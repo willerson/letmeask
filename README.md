@@ -6,22 +6,34 @@
 
 Gerenciador de perguntas em sala em tempo real.
 
-[DEMO](https://letmeask-e74eb.web.app/)
+## [DEMO](https://letmeask-e74eb.web.app/)
 
 ## Instalação
 
-# Clone este repositório
+### Clone este repositório
+```
  git clone https://github.com/willerson/letmeask.git
- # Acesse a pasta do projeto no terminal
+```
+ #### Acesse a pasta do projeto no terminal
  cd letmeask
  
- # Instale as dependências
- $ yarn install ou
+ #### Instale as dependências
+ ```
+ $ yarn install
+ ```
+ ou
+ ```
  $ npm i 
+ ```
  
- # Execute a aplicação em modo de desenvolvimento
+ #### Execute a aplicação em modo de desenvolvimento
+ ```
  $ npm start 
+ ```
+ ou
+ ```
  $ yarn start
+ ```
  
- # O servidor iniciará na porta:3000
- # Acesse http://localhost:3000
+ #### O servidor iniciará na porta:3000
+ Acesse http://localhost:3000
